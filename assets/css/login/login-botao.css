@@ -1,0 +1,14 @@
+.login__botao {
+    background-color: transparent;
+    border: solid 1px var(--roxo);
+    box-sizing: border-box;
+    color: var(--cinza);
+    height: 51px;
+    margin: 0.5rem 0 0.5rem;
+    width: 182px;
+}
+
+.login__botao:hover {
+    background-color: var(--azul);
+    color: var(--roxo);
+}

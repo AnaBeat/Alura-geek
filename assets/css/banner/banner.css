@@ -1,0 +1,6 @@
+.banner {
+    background: url("../../img/banner-image.png") no-repeat;
+    background-size: 100vw;
+    height: 352px;
+    padding: 32px;
+}

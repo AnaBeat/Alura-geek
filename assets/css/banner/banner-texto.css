@@ -1,0 +1,7 @@
+.banner__texto {
+    display: flex;
+    flex-direction: column;
+    height: 320px;
+    padding-left: 3rem;
+    width: 751px;
+}

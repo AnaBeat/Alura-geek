@@ -1,0 +1,12 @@
+.menu__busca{
+    align-items: center;
+    background-color: #ffffff;
+    border: solid 1px #AD56CD;
+    border-radius: 15px;
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+    padding: 0 0 0 1em;
+    position: static;
+    width: 400px;
+}

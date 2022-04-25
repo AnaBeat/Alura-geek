@@ -1,0 +1,14 @@
+.menu__botao {
+    background-color: #ffffff;
+    border: transparent;
+    margin: 0 1em 0 0;
+}
+
+.menu__botao i {
+    background-color: #ffffff;
+    color: #A2A2A2;
+}
+
+.menu__botao:hover {
+    cursor: pointer;
+}

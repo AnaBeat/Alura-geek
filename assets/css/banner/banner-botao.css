@@ -1,0 +1,7 @@
+.banner__botao {
+    background-color: var(--roxo);
+    border: none;
+    color: var(--texto-destaque);
+    height: 51px;
+    width: 130px;
+}
