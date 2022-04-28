@@ -5,3 +5,14 @@
     height: 51px;
     width: 130px;
 }
+
+.banner__botao:hover {
+    background-color: var(--azul);
+    color: var(--texto-destaque);
+    cursor: pointer;
+}
+
+.banner__botao a {
+    text-decoration: none;
+    color: var(--texto-destaque);
+}

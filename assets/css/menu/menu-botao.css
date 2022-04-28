@@ -12,3 +12,9 @@
 .menu__botao:hover {
     cursor: pointer;
 }
+
+@media only screen and (max-width: 768px) {
+    .menu__botao {
+        padding: 0 0;
+    }
+}

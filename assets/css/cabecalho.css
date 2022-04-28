@@ -6,3 +6,12 @@
     padding-right: 2rem;
     background: var(--bg-color);
 }
+
+@media only screen and  (max-width: 768px) {
+    .cabecalho {
+        height: 72px;
+        justify-content: flex-start;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
